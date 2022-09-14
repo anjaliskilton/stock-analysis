@@ -1,7 +1,7 @@
 # stock-analysis
 
 ## Overview of Project
-*This project focused on the use of refactored VBA code, optimization of for loops, and measurement of performance. * All data for this project came from a pre-entered accounting Excel sheet for stock analysis specifying ticker; data, open, high, low, close, adj close, and volume. 
+**This project focused on the use of refactored VBA code, optimization of for loops, and measurement of performance. ** All data for this project came from a pre-entered accounting Excel sheet for stock analysis specifying ticker; data, open, high, low, close, adj close, and volume. 
 ### Purpose
 The goal of this project was to use refactored code to optimize for loops and decrease run time.
 ##Results
